@@ -37,7 +37,7 @@
 
   /* ---- Reveal on scroll ---- */
   var revealTargets = document.querySelectorAll(
-    ".section-head, .card, .area, .about-points li, .cta-box"
+    ".section-head, .leadership-inner, .card, .area, .about-points li, .cta-box"
   );
   var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
 
