@@ -38,8 +38,10 @@ python3 -m http.server 8000
 ## Contact form
 
 The health-check form has no backend. On submit it validates, then opens the
-visitor's mail client with a pre-filled message to `jason.van.lint@gmail.com`.
+visitor's mail client with a pre-filled message to `healthcheck@thetechnologybureau.com.au`.
 To use a hosted form service later, replace the `submit` handler in `script.js`.
+
+General enquiries go to `hello@thetechnologybureau.com.au` (footer link).
 
 ## Deploying
 

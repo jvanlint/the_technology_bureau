@@ -83,7 +83,7 @@
       ];
 
       var href =
-        "mailto:jason.van.lint@gmail.com" +
+        "mailto:healthcheck@thetechnologybureau.com.au" +
         "?subject=" + encodeURIComponent(subject) +
         "&body=" + encodeURIComponent(bodyLines.join("\n"));
 
